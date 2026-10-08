@@ -61,6 +61,13 @@ TB6612FNG
 
 **Power:** Motor supply (VM) is connected to the battery, while the ESP32 is powered from a regulated 3.3 V supply.
 
+## Project Images
+Robot Prototype
+
+<p align="center"> <img src="images/img1.jpg" width="600"> </p>
+
+<p align="center"> <img src="images/img2.jpg" width="600"> </p>
+
 ## Objective
 
 The primary objective is to develop a reliable **voice-controlled robotic system** capable of recognizing speech commands even in the presence of environmental noise by applying digital signal processing techniques.
